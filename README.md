@@ -1,6 +1,6 @@
 # Tech Pro Bem - Teste Front-End
 
-Faça um fork deste repositório e finalizar ao teste, submeta um pull request para o repositório que nosso time será notificado.
+Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado.
 
 ## Objetivo
 - Crie um componente React reutilizável que faça busca ao clicar de um botão.
