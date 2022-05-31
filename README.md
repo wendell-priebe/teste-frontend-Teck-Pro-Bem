@@ -25,3 +25,5 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 - http://placekitten.com/200/300
 
 ### Exemplo do resultado esperado:
+
+![proto](https://user-images.githubusercontent.com/29049644/171073674-80d6c19b-0a01-4bad-b81f-cac0cb424689.gif)
