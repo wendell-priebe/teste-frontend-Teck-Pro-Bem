@@ -4,7 +4,7 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 
 ## Objetivo
 - Crie um componente React reutilizável que faça um **fetch** ao clicar de um botão.
-- Utilize a API [Place Kitten](https://placekitten.com/), instancie seu componete de forma que retorne o resultado randomico e exiba a imagem obtida.
+- Instancie seu componete de forma que retorne o resultado randomico e exiba a imagem obtida da API [Place Kitten](https://placekitten.com/).
 - Faça uma nova instância do componente, mas dessa vez retorne o resultado da requisição da API [Place Dogs](https://place.dog/) e exiba a imagem obtida.
 
 ** Crie uma interface do seu gosto para exibir os resultados. Não precisa ser nada elaborado, não estamos avaliando design. Mostre sua criatividade. 
