@@ -1,3 +1,11 @@
+> Olá! 
+> 
+> Ficamos muito felizes que você queira fazer parte da equipe ^^
+> 
+> A primeira etapa do seu processo seletivo começa aqui.
+> 
+> Para completar sua inscrição, basta entregar este teste técnico seguindo as instruções abaixo.
+
 # Tech Pro Bem - Teste Front-End
 
 Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado. 
