@@ -1,6 +1,8 @@
 # Tech Pro Bem - Teste Front-End
 
-Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado.
+Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado. 
+
+**Inclua suas informações de contato na descrição de seu pull request (e-mail, telefone ou LinkedIn).**
 
 ## Objetivo
 - Crie um componente React reutilizável que faça um **fetch** ao clicar de um botão.
@@ -14,6 +16,7 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 - Reutilização do componente criado;
 - Estilização do componente;
 - Organização de commits;
+- Apresentação da solução no pull request;
 
 ## Diferenciais
 - Utilizar parâmetros para a busca.
