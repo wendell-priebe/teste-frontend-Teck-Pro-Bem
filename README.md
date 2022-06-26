@@ -19,7 +19,7 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 
 ** Crie uma interface do seu gosto para exibir os resultados. Não precisa ser nada elaborado, não estamos avaliando design. Mostre sua criatividade. 
 
-### O que vamos avaliar:
+## O que vamos avaliar:
 - Organização do código;
 - Reutilização do componente criado;
 - Estilização do componente;
@@ -31,10 +31,16 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 - CSS in JS
 - Axios
 
-### Exemplo de consumos das APIS:
+## Exemplo de consumos das APIS:
 - https://place.dog/300/200
 - http://placekitten.com/200/300
 
-### Exemplo do resultado esperado:
+## Exemplo do resultado esperado:
 
 ![proto](https://user-images.githubusercontent.com/29049644/171073674-80d6c19b-0a01-4bad-b81f-cac0cb424689.gif)
+
+## Em caso de dúvidas
+
+Caso você encontre algum problema para resolver o desafio, por favor, veja a sessão de [issues](https://github.com/tech-pro-bem/teste-frontend/issues). 
+
+Sinta-se a vontade para abrir uma nova issue com a suas dúvidas e problemas que tenha enfrentado.
