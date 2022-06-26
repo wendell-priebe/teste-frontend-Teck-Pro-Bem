@@ -43,4 +43,4 @@ Faça um fork deste repositório e ao finalizar o teste, submeta um pull request
 
 Caso você encontre algum problema para resolver o desafio, por favor, veja a sessão de [issues](https://github.com/tech-pro-bem/teste-frontend/issues). 
 
-Sinta-se a vontade para abrir uma nova issue com a suas dúvidas e problemas que tenha enfrentado.
+Se ainda continuar com dúvidas, sinta-se a vontade para abrir uma nova issue descrevendo os problemas que você está enfrentando.
