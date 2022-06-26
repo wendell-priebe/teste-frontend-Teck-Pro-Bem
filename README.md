@@ -8,7 +8,7 @@
 
 # Tech Pro Bem - Teste Front-End
 
-Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado. 
+Faça um fork deste repositório e ao finalizar o teste, submeta um pull request para o repositório. 
 
 **Inclua suas informações de contato na descrição de seu pull request (e-mail, telefone ou LinkedIn).**
 
