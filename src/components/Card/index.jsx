@@ -20,6 +20,10 @@ function Card({ name, url, ...props }) {
         setImgPet(urlPet);
     }
 
+    function openModal(){
+        
+    }
+
   return (
     <Cartao>
         <Button handleFunction={() => handleImg(name)} >
@@ -30,7 +34,7 @@ function Card({ name, url, ...props }) {
     
         <Imagem name={name} url={imgPet} ></Imagem>
 
-        <Button>
+        <Button onClick={() => openModal()}>
             Compartilhar
         </Button>
     </Cartao>

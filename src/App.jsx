@@ -1,7 +1,11 @@
+import Modal from 'react-modal'
+
 import Card from './components/Card/index';
 
 import GlobalStyles from '../src/styles/global.js';
 import {Container} from '../src/styles/styles.js';
+
+Modal.setAppElement('#root');
 
 function App() {
 
