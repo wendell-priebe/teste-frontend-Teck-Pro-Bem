@@ -1,10 +1,12 @@
 import React from 'react';
 
+import { BotaoStyle } from './styles'
+
 function Button({ handleFunction, ...props}) {
   return(
-    <button onClick={handleFunction}>
+    <BotaoStyle onClick={handleFunction}>
       { props.children }
-    </button>
+    </BotaoStyle>
   );
 }
 

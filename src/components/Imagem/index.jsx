@@ -1,8 +1,10 @@
 import React from 'react';
 
+import {ImagemStyle} from './styles'
+
 function Imagem({ name, url, ...props}) {
   return(
-    <img src={url} alt={name} />
+    <ImagemStyle src={url} alt={name} />
   );
 }
 
