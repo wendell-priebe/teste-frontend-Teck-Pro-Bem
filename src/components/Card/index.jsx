@@ -4,7 +4,11 @@ import Imagem from './../Imagem/index';
 
 import {Cartao} from './styles'
 
-function Card({ name, url, ...props }) {
+import { useShareImagem } from './../../hooks/useShareImagem';
+
+function Card({ openShareModal, name, url, ...props }) {
+    const { setShareImagem } = useShareImagem();
+
     const [imgPet, setImgPet] = useState(url);
     const randon1 = Math.floor(Math.random() * 10);  
     const randon2 = Math.floor(Math.random() * 10);  
@@ -20,8 +24,12 @@ function Card({ name, url, ...props }) {
         setImgPet(urlPet);
     }
 
-    function openModal(){
-        
+    function setImgPetShare(imgPet){
+        setShareImagem(imgPet)
+    }
+
+    function eventOnClick(){
+        // tentar usar 2 onclick em um botao de compartilhar
     }
 
   return (
@@ -34,7 +42,7 @@ function Card({ name, url, ...props }) {
     
         <Imagem name={name} url={imgPet} ></Imagem>
 
-        <Button onClick={() => openModal()}>
+        <Button type="button" handleFunction={ openShareModal } onClick={setImgPetShare(imgPet)}>
             Compartilhar
         </Button>
     </Cartao>

@@ -6,9 +6,16 @@ export default createGlobalStyle`
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
     background: #d9d9d9 ;
     color: #0d0d0d ;
     font: 400 16px Roboto, sans-serif;
   }
+
+  a{
+    text-decoration: none;
+    color: currentColor;
+  }
+
 `
